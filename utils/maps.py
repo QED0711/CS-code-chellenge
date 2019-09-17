@@ -41,7 +41,6 @@ def map_feature(
                 ticks='outside',
                 thickness=5,
                 len=0.75,
-                x=0,
                 xpad=0,
             ),
         ))
