@@ -1,0 +1,812 @@
+building_rating_id,building_name,address,city,state,zipcode
+2.0,courtyard apartments,524 Chiechi Ave,San Jose,CA,95126
+2.0,courtyard apartments,38665 E 11th St,Palmdale,CA,93550
+2.0,courtyard apartments,38675 12th St E,Palmdale,CA,93550
+2.0,courtyard apartments,800 Main St,Van Meter,IA,50261
+2.0,courtyard apartments,10036 Gould St,Riverside,CA,92503
+2.0,courtyard apartments,3451 N 37th St,Phoenix,AZ,85018
+2.0,courtyard apartments,8421 15th St,Westminster,CA,92683
+2.0,courtyard apartments,15025 Saticoy St,Van Nuys,CA,91405
+2.0,courtyard apartments,4240 Felton St,San Diego,CA,92104
+2.0,courtyard apartments,12231 Chapman Ave,Garden Grove,CA,92840
+2.0,courtyard apartments,5905 200th St SW,Lynnwood,WA,98036
+2.0,courtyard apartments,105 W 29th St,Vancouver,WA,98660
+2.0,courtyard apartments,19606 Van Aken Blvd,Shaker Heights,OH,44122
+2.0,courtyard apartments,24050 Silva Ave,Hayward,CA,94544
+2.0,courtyard apartments,160 E Montwood Ave,La Habra,CA,90631
+2.0,courtyard apartments,1305 Marshall St,Redwood City,CA,94063
+2.0,courtyard apartments,132 W 18th St,Merced,CA,95340
+2.0,courtyard apartments,445 Acalanes Dr,Sunnyvale,CA,94086
+3.0,courtyard apartments,7005 W 120th Ave,Broomfield,CO,80020
+2.0,courtyard apartments,250 NE 13th St,Homestead,FL,33030
+3.0,courtyard apartments,14101 E 14th St,San Leandro,CA,94578
+3.0,courtyard apartments,1270 Melton Dr,Yuba City,CA,95991
+2.0,courtyard apartments,1946 Country Club Blvd,Stockton,CA,95204
+3.0,courtyard apartments,2012 W Ash St,Columbia,MO,65203
+2.0,courtyard apartments,1031 N Sumner St,Pampa,TX,79065
+2.0,courtyard apartments,1988 Davis Dr,Belvidere,IL,61008
+2.0,courtyard apartments,1600 E 15th St,Plano,TX,75074
+2.0,courtyard apartments,900 W 3rd St,Little Rock,AR,72201
+2.0,courtyard apartments,703 Orange St,Wilmington,DE,19801
+2.0,courtyard apartments,1740 N 5th,Pasco,WA,99301
+2.0,courtyard apartments,2215 Highway 9 WEST,Seminole,OK,74868
+2.0,courtyard apartments,8101 Marble Ave NE,Albuquerque,NM,87110
+3.0,courtyard apartments,1900 S Green St,Longview,TX,75602
+2.0,courtyard apartments,2700 SE Stark St,Portland,OR,97214
+2.0,courtyard apartments,402 Garner Rd,Pasadena,TX,77502
+2.0,courtyard apartments,10267 Mast Blvd,Santee,CA,92071
+2.0,courtyard apartments,215 E Ash St,Brea,CA,92821
+2.0,courtyard apartments,3732 NW 23rd St,Oklahoma City,OK,73107
+2.0,courtyard apartments,2800 W 24th St,Plainview,TX,79072
+3.0,courtyard apartments,2051 W Alexis Rd,Toledo,OH,43613
+2.0,courtyard apartments,1333 Miller Ave,Burley,ID,83318
+2.0,courtyard apartments,1000 Salisbury St,Kernersville,NC,27284
+2.0,courtyard apartments,102 N Franklin St,Madison,WI,53703
+3.0,courtyard apartments,2060 N Trekell Rd,Casa Grande,AZ,85122
+2.0,courtyard apartments,3210 Pleasant Valley Rd,Mobile,AL,36606
+2.0,courtyard apartments,773 NE 9th St,Crystal River,FL,34428
+3.0,courtyard apartments,833 Shoshone St N,Twin Falls,ID,83301
+2.0,courtyard apartments,3900 45th St,Kenosha,WI,53144
+2.0,courtyard apartments,20 Macdougall St,Auburn,NY,13021
+2.0,courtyard apartments,5635 Purdue Ave,Baltimore,MD,21239
+2.0,courtyard apartments,5600 Marconi Ave,Carmichael,CA,95608
+2.0,courtyard apartments,14005 Kornblum Ave,Hawthorne,CA,90250
+2.0,courtyard apartments,1008 Sage St,Grants,NM,87020
+2.0,courtyard apartments,4701  Fort Ave,Waco,TX,76710
+3.0,courtyard apartments,131 Commerce Pl,Geneva,OH,44041
+2.0,courtyard apartments,252 Spalding Rd,Holts Summit,MO,65043
+2.0,courtyard apartments,243 N Coffman St,Anaheim,CA,92805
+2.0,courtyard apartments,736 E 12th Ave,Emporia,KS,66801
+2.0,courtyard apartments,502 E Davis St,Harlingen,TX,78550
+3.0,courtyard apartments,10 Carlee Ct,Greece,NY,14616
+2.0,courtyard apartments,852 S Main St,Burlington,NC,27215
+4.0,courtyard apartments,350 Westpark Ct,Camarillo,CA,93012
+3.0,courtyard apartments,245 Main St,Manchester,NH,03102
+3.0,courtyard apartments,2831 E Dandelion St,Pahrump,NV,89048
+3.0,courtyard apartments,1034 Spring Valley Rd,Osage Beach,MO,65065
+3.0,courtyard apartments,84 W Broad St,Bridgeton,NJ,08302
+3.0,courtyard apartments,905 Paluxy Rd,Granbury,TX,76048
+2.0,courtyard apartments,800 S Lincoln Ave,Beaver Dam,WI,53916
+3.0,courtyard apartments,3704 E Main St,Gatesville,TX,76528
+3.0,courtyard apartments,1601 Belsly Blvd,Moorhead,MN,56560
+3.0,courtyard apartments,1420 Jefferson St,Alexandria,MN,56308
+2.0,courtyard apartments,2910 Bunting Ave,Grand Junction,CO,81504
+3.0,courtyard apartments,4300 Prairie Ave,Amarillo,TX,79109
+3.0,courtyard apartments,3505 East Ave S,La Crosse,WI,54601
+3.0,courtyard apartments,1453 N 11th Ave E,Newton,IA,50208
+3.0,courtyard apartments,1911 E 17th St,Idaho Falls,ID,83404
+2.0,courtyard apartments,1216 S Burnside Ave,Gonzales,LA,70737
+3.0,courtyard apartments,92 N Berger Pky,Fond du Lac,WI,54935
+2.0,courtyard apartments,571 Ridge Rd,Arcata,CA,95521
+3.0,courtyard apartments,2050 Pepperell Pky,Opelika,AL,36801
+2.0,courtyard apartments,415 S Marina St,Prescott,AZ,86303
+3.0,courtyard apartments,406 W Locust St,Lodi,CA,95240
+3.0,courtyard apartments,307 2nd Ave NE,Rugby,ND,58368
+3.0,courtyard apartments,32 Indiana Dr,Toccoa,GA,30577
+2.0,courtyard apartments,12250 W North Ave,Wauwatosa,WI,53226
+3.0,courtyard apartments,1003 24th St,Bellingham,WA,98225
+,courtyard apartments,242 E North St,Hastings,MI,49058
+2.0,hillcrest apartments,2822 Hillcrest Dr,San Antonio,TX,78201
+2.0,hillcrest apartments,8315 5th Ave NE,Seattle,WA,98115
+2.0,hillcrest apartments,18700 101st Ave NE,Bothell,WA,98011
+2.0,hillcrest apartments,1801 Blanchard Ct SW,Wyoming,MI,49519
+2.0,hillcrest apartments,833 2nd St,Waterloo,IA,50701
+2.0,hillcrest apartments,146 Persimmon,Genesee,ID,83832
+2.0,hillcrest apartments,150 West Ave,Woodstown,NJ,08098
+2.0,hillcrest apartments,704 W First Ave,La Habra,CA,90631
+2.0,hillcrest apartments,642 Allgood Rd,Marietta,GA,30060
+2.0,hillcrest apartments,21 W Lee St,Seattle,WA,98119
+2.0,hillcrest apartments,8015 Citrus Ave,Fontana,CA,92336
+2.0,hillcrest apartments,617 Hilltop Dr,Bordentown,NJ,08505
+2.0,hillcrest apartments,7582 SW Hunziker St,Tigard,OR,97223
+2.0,hillcrest apartments,2190 SE 5th St,Pompano Beach,FL,33062
+2.0,hillcrest apartments,101 Woodcreek Dr,Rossville,GA,30741
+2.0,hillcrest apartments,241 29th St,Oakland,CA,94611
+2.0,hillcrest apartments,19130 Outer Hwy 18,Apple Valley,CA,92307
+2.0,hillcrest apartments,1516 S 27th St,Nederland,TX,77627
+3.0,hillcrest apartments,1721 E 3rd St,Duluth,MN,55812
+2.0,hillcrest apartments,640 Olson Rd,Longview,WA,98632
+3.0,hillcrest apartments,423 S G St,Tacoma,WA,98405
+2.0,hillcrest apartments,7627 Hollywood Blvd,Los Angeles,CA,90046
+3.0,hillcrest apartments,490 Gainesville Hwy,Winder,GA,30680
+2.0,hillcrest apartments,13 Hillcrest Dr,Pittsburgh,PA,15202
+3.0,hillcrest apartments,4155 East Wind Dr,Memphis,TN,38116
+2.0,hillcrest apartments,1614 Longview,Benton,AR,72015
+2.0,hillcrest apartments,808 N Monroe St,Stillwater,OK,74075
+2.0,hillcrest apartments,365 N Main St,Munroe Falls,OH,44262
+2.0,hillcrest apartments,1119 1st Ave N,Sauk Rapids,MN,56379
+3.0,hillcrest apartments,154 Sunset Dr,Ontario,OR,97914
+2.0,hillcrest apartments,700 Meadow Ln,Burlington,WI,53105
+2.0,hillcrest apartments,1480 47th Ave NE,Columbia Heights,MN,55421
+2.0,hillcrest apartments,205 W Tower Rd,Wheeler,WI,54772
+2.0,hillcrest apartments,2928 N Main St,Findlay,OH,45840
+2.0,hillcrest apartments,902 S 5th St,Sanger,TX,76266
+2.0,hillcrest apartments,1104 Ronstan Dr,Killeen,TX,76542
+2.0,hillcrest apartments,6 Trenton St,Chattanooga,TN,37415
+3.0,hillcrest apartments,2019 Hillcrest St,Mesquite,TX,75149
+3.0,hillcrest apartments,3750 Post Oak Blvd,Euless,TX,76040
+2.0,hillcrest apartments,300 Sunnyridge Ln,Loretto,MN,55357
+3.0,hillcrest apartments,1616 E Howell St,Seattle,WA,98122
+2.0,hillcrest apartments,237 Hillcrest Rd,Mountain Home,AR,72653
+2.0,hillcrest apartments,890 Ridgewood Dr,Plainfield,IN,46168
+2.0,hillcrest apartments,1100 E 56th St,Savannah,GA,31404
+2.0,hillcrest apartments,724 Maryland St,Saint Croix Falls,WI,54024
+1.0,hillcrest apartments,4625 San Diego Ave,Saint Louis,MO,63121
+2.0,hillcrest apartments,1402 Meares St,Wilmington,NC,28401
+2.0,hillcrest apartments,1812 S Grand Ave,Waukesha,WI,53189
+2.0,hillcrest apartments,207 Hillcrest Dr,Reno,NV,89509
+2.0,hillcrest apartments,306 Old Hickory Rd,Newton,MS,39345
+2.0,hillcrest apartments,500 Boright St,Le Sueur,MN,56058
+2.0,hillcrest apartments,250 Hillcrest Dr,Lancaster,OH,43130
+2.0,hillcrest apartments,1528 Wildwood Ave,Columbus,GA,31906
+2.0,hillcrest apartments,2603 Arnold Dr,Charlotte,NC,28205
+2.0,hillcrest apartments,215 Carl Perkins Dr,Ashland,KY,41101
+2.0,hillcrest apartments,300 E Ford Ave,Connell,WA,99326
+2.0,hillcrest apartments,271 S Beckford Dr,Henderson,NC,27536
+3.0,hillcrest apartments,319 Laudenbach Ct,Saint Cloud,MN,56301
+3.0,hillcrest apartments,1 Hillcrest Dr,Bisbee,AZ,85603
+2.0,hillcrest apartments,100 N Lafayette Ave,Bremerton,WA,98312
+2.0,hillcrest apartments,142 Hillcrest Dr,Fredericksburg,VA,22401
+3.0,hillcrest apartments,656 N Bell St,Grenada,MS,38901
+2.0,hillcrest apartments,564 E Main St,Statesboro,GA,30461
+2.0,hillcrest apartments,301 E 3rd Ave,Runnemede,NJ,08078
+2.0,hillcrest apartments,800 Oakwood St,Bennettsville,SC,29512
+3.0,hillcrest apartments,6705 N Terra Vista Dr,Peoria,IL,61614
+3.0,hillcrest apartments,5601 S Youngs Blvd,Oklahoma City,OK,73119
+3.0,hillcrest apartments,141 Green Bay Rd,Wilmette,IL,60091
+3.0,hillcrest apartments,3000 Birchwood Dr,Lynchburg,VA,24501
+3.0,hillcrest apartments,14893 Interurban Ave S,Tukwila,WA,98168
+3.0,hillcrest apartments,690 Highway 139,Monroe,LA,71203
+3.0,hillcrest apartments,1503 John Collins Rd,Pelham,GA,31779
+2.0,hillcrest apartments,1621 Homer Rd,Winona,MN,55987
+3.0,hillcrest apartments,401 8th St,Juneau,AK,99801
+2.0,hillcrest apartments,1710 Muny Vista Dr,Alton,IL,62002
+2.0,hillcrest apartments,101 E Vine St,Le Roy,IL,61752
+2.0,hillcrest apartments,515 E 12th Ave,Anchorage,AK,99501
+3.0,hillcrest apartments,25 Gerber Rd E,South Windsor,CT,06074
+3.0,hillcrest apartments,785 W Providence Rd,Lansdowne,PA,19050
+3.0,hillcrest apartments,500 Hill St,Dowagiac,MI,49047
+3.0,hillcrest apartments,720 Winkler Dr,Perryville,MO,63775
+3.0,hillcrest apartments,917 Dreiling Rd,Junction City,KS,66441
+2.0,hillcrest apartments,3501 Buckner Ln,Paducah,KY,42001
+2.0,hillcrest apartments,1301 N Michigan St,South Bend,IN,46617
+2.0,hillcrest apartments,43885 State Route 18,Wellington,OH,44090
+2.0,hillcrest apartments,3424 Thompson Ave,Anchorage,AK,99508
+3.0,hillcrest apartments,985 E Lafayette St,Dadeville,AL,36853
+3.0,hillcrest apartments,1916 N Orleans St,McHenry,IL,60050
+2.0,hillcrest apartments,1204 Redington Ave,Troy,PA,16947
+2.0,hillcrest apartments,801 E 14th St,Sweetwater,TX,79556
+3.0,hillcrest apartments,211 Hill Crest St,Hillsville,VA,24343
+1.0,hillcrest apartments,1444 Crossroads Dr,Mountain City,TN,37683
+3.0,hillcrest apartments,1757 Upland Ave,Houghton,MI,49931
+2.0,hillcrest apartments,207 W Highway St,Doniphan,MO,63935
+2.0,hillcrest apartments,321 W 22nd St,Big Spring,TX,79720
+2.0,park place,1015 Park Pl,Wilmington,DE,19806
+2.0,park place,809 Winflo Dr,Austin,TX,78703
+4.0,park place,675 Town Center Dr,Newport News,VA,23606
+3.0,park place,110 Southport Rd,Spartanburg,SC,29306
+4.0,park place,421 Meeting St,Dalton,GA,30721
+2.0,park place,405 N Ewing Ave,Dallas,TX,75203
+2.0,park place,1460 Marshall St,Redlands,CA,92374
+2.0,park place,12003 15th Ave NE,Seattle,WA,98125
+3.0,park place,6100 Lakewood Dr W,University Place,WA,98467
+3.0,park place,2628 NE Red Sunset Dr,Gresham,OR,97030
+2.0,park place,3701 Crowell Rd,Turlock,CA,95382
+2.0,park place,4587 39th St,San Diego,CA,92116
+2.0,park place,2300 Park Place Ave,Fort Worth,TX,76110
+3.0,park place,3850 Mountain Vista St,Las Vegas,NV,89121
+2.0,park place,4113 E Linebaugh Ave,Tampa,FL,33617
+2.0,park place,5020 Elmhurst Rd,West Palm Beach,FL,33417
+2.0,park place,4617 Park Blvd,San Diego,CA,92116
+3.0,park place,130 Homestead Rd S,Lehigh Acres,FL,33936
+2.0,park place,13141 SE Powell Blvd,Portland,OR,97236
+3.0,park place,851 Church St,Mountain View,CA,94041
+2.0,park place,3340 E Walnut St,Pearland,TX,77581
+3.0,park place,1406 Maple Ln,Kent,WA,98030
+4.0,park place,600 N Kingsbury St,Chicago,IL,60654
+2.0,park place,709 Baxter Ave,Superior,WI,54880
+2.0,park place,98 Park Ave,Wilkes Barre,PA,18702
+2.0,park place,410 NE Izett St,Oak Harbor,WA,98277
+2.0,park place,"880, 890 Parkview Ave",Battle Creek,MI,49017
+2.0,park place,25 Yosemite Cir,Bohemia,NY,11716
+3.0,park place,2 Hiltin Pl,Greensboro,NC,27409
+2.0,park place,16480 Del Monte Ave,Morgan Hill,CA,95037
+2.0,park place,212 Acklen Park Dr,Nashville,TN,37203
+2.0,park place,1001 W Lakeview Dr,Sebastian,FL,32958
+4.0,park place,14550 34th Ave N,Plymouth,MN,55447
+2.0,park place,1700 Patrick Pl,South Park,PA,15129
+2.0,park place,40340 Chapel Way,Fremont,CA,94538
+2.0,park place,700 Poplar St,Jacksonville,AR,72076
+3.0,park place,3700 Seven Mile Ln,Baltimore,MD,21208
+3.0,park place,7500 Cranfill Way,Louisville,KY,40214
+2.0,park place,2501 Park Blvd,Odessa,TX,79763
+2.0,park place,745 2nd Ave NW,Issaquah,WA,98027
+2.0,park place,1045 3rd St,Santa Monica,CA,90403
+2.0,park place,16900 Chatsworth St,Granada Hills,CA,91344
+2.0,park place,5188 Balboa Arms Dr,San Diego,CA,92117
+2.0,park place,15903 Prairie Ave,Lawndale,CA,90260
+2.0,park place,2204 14th St E,Glencoe,MN,55336
+2.0,park place,2001 W Hickory St,Denton,TX,76201
+2.0,park place,1460 Parkside Ave,Ewing,NJ,08638
+2.0,park place,1117 Plymouth Dr,Champaign,IL,61821
+3.0,park place,3040 W Farm Road 164,Springfield,MO,65807
+2.0,park place,5730 Frankford Ave,Philadelphia,PA,19135
+2.0,park place,3319 Park Ave,Wilmington,NC,28403
+3.0,park place,12225 Atlantic Ave,Lynwood,CA,90262
+4.0,park place,212 N Bassett St,Madison,WI,53703
+3.0,park place,100 Athol St,Buffalo,NY,14220
+3.0,park place,2701  32nd Ave S,Fargo,ND,58103
+3.0,park place,9659 Manassas Dr,Manassas Park,VA,20111
+3.0,park place,3245 E University Ave,Las Cruces,NM,88011
+2.0,park place,24845 Fir Ave,Moreno Valley,CA,92553
+3.0,park place,400 Park Ave,Foley,AL,36535
+2.0,park place,3505 9th Ave W,Hibbing,MN,55746
+3.0,park place,2404 Tate Springs Rd,Lynchburg,VA,24501
+2.0,park place,100 Boardwalk Cv,Jackson,TN,38301
+3.0,park place,164 Gregory Ave,Snow Hill,NC,28580
+3.0,park place,11919 Colerain Rd,Saint Marys,GA,31558
+3.0,park place,600 24th St N,Birmingham,AL,35203
+3.0,park place,1230 N St,Sacramento,CA,95814
+2.0,park place,89-21 169th St,Jamaica,NY,11432
+4.0,park place,7001 W Tapps Hwy,Bonney Lake,WA,98391
+4.0,park place,14575 W Mountain View Blvd,Surprise,AZ,85374
+2.0,park place,1000 Progress St NW,Blacksburg,VA,24060
+4.0,park place,700 W Harbor Dr,San Diego,CA,92101
+2.0,park place,81 Pine Grove Rd,Cartersville,GA,30120
+3.0,park place,3969 Mahaila Ave,San Diego,CA,92122
+4.0,park place,3395 Michelson Dr,Irvine,CA,92612
+2.0,park place,400 S Elm St,Arroyo Grande,CA,93420
+3.0,park place,140 Park Ave,Brockport,NY,14420
+3.0,park place,681 Park Ave,Keene,NH,03431
+2.0,park place,125 E Park St,Owatonna,MN,55060
+2.0,park place,2270 Madison Rd,Cincinnati,OH,45208
+2.0,park place,215 S Bell Ave,Lyons,KS,67554
+3.0,park place,611 College St,Crandall,TX,75114
+3.0,park place,207 S 6th St,Osage City,KS,66523
+2.0,park place,2414 30th St,Gulfport,MS,39501
+3.0,park place,2618 10th Ave,Canyon,TX,79015
+2.0,park place,1616 Spring Valley Dr,Huntington,WV,25704
+3.0,park place,650 Lehigh Rd,Newark,DE,19711
+3.0,park place,5001 S Lawndale Ave,Chicago,IL,60632
+2.0,park place,500 N Montgomery Ave,Sheffield,AL,35660
+2.0,park place,6548 Park Ave,Milton,FL,32570
+4.0,park place,6161 Stone Valley Dr,Reno,NV,89523
+2.0,park place,8 Nebraska Rd,Wilmington,DE,19808
+2.0,park place apartments,4030 78th Ave,Pinellas Park,FL,33781
+3.0,park place apartments,623 Park Pl,West Palm Beach,FL,33401
+2.0,park place apartments,2115 N Garrett Ave,Dallas,TX,75206
+3.0,park place apartments,10755 SW 108th Ave,Miami,FL,33176
+2.0,park place apartments,460 E 700 N,Provo,UT,84606
+2.0,park place apartments,1015 Arcade Blvd,Sacramento,CA,95815
+2.0,park place apartments,68 Ransom Ave NE,Grand Rapids,MI,49503
+3.0,park place apartments,243 Boardwalk Ave,Shepherdsville,KY,40165
+3.0,park place apartments,3611 Maplewood Ave,Wichita Falls,TX,76308
+2.0,park place apartments,600 Lakeside,Cambridge,OH,43725
+2.0,park place apartments,200 Campbell St,Cleveland,TX,77327
+2.0,park place apartments,4399 Forest Park Blvd,Saint Louis,MO,63108
+3.0,park place apartments,610 W Foothill Blvd,Monrovia,CA,91016
+3.0,park place apartments,4378 Sepulveda Blvd,Sherman Oaks,CA,91403
+2.0,park place apartments,2605 Jefferson St,Carlsbad,CA,92008
+2.0,park place apartments,4033 33rd St,San Diego,CA,92104
+2.0,park place apartments,790 Church St,San Francisco,CA,94114
+2.0,park place apartments,1661 259th St,Harbor City,CA,90710
+2.0,park place apartments,7742 Park Place Blvd,Houston,TX,77087
+2.0,park place apartments,25401 Cypress Ave,Hayward,CA,94544
+2.0,park place apartments,66 Devir St,Malden,MA,02148
+2.0,park place apartments,7970 Woodman Ave,Van Nuys,CA,91402
+2.0,park place apartments,721 Sandy St,Norristown,PA,19401
+3.0,park place apartments,8700 De Soto Ave,Canoga Park,CA,91304
+2.0,park place apartments,43253 20th St W,Lancaster,CA,93534
+2.0,park place apartments,3760 Park Boulevard Way,Oakland,CA,94610
+2.0,park place apartments,2925 N Alvernon Way,Tucson,AZ,85712
+2.0,park place apartments,370 W Kimball Ave,Hemet,CA,92543
+2.0,park place apartments,7514 Hogan Rd,Jacksonville,FL,32216
+2.0,park place apartments,1222 E 30th St,Kansas City,MO,64109
+2.0,park place apartments,2430 E Rossiter Ln,Vancouver,WA,98661
+2.0,park place apartments,11555 SW 88th Ave,Tigard,OR,97223
+2.0,park place apartments,5683 Park Pl,Chino,CA,91710
+3.0,park place apartments,8615 238th St SW,Edmonds,WA,98026
+2.0,park place apartments,12602 Lincoln Ave SW,Lakewood,WA,98499
+3.0,park place apartments,1310 Alma Ave,Walnut Creek,CA,94596
+3.0,park place apartments,212 Third St,Troy,NY,12180
+2.0,park place apartments,401 Loring Ave,Orange Park,FL,32073
+3.0,park place apartments,3515 Arlene Dr,Branson,MO,65616
+2.0,park place apartments,5980 Old Porter Rd,Portage,IN,46368
+2.0,park place apartments,1413 Cambridge Pl,Manhattan,KS,66502
+2.0,park place apartments,2820 Park Blvd,Oakland,CA,94610
+3.0,park place apartments,301 Burnsville Pky E,Burnsville,MN,55337
+2.0,park place apartments,900 I St,Sparks,NV,89431
+3.0,park place apartments,2342 Park Place Dr,Liberty,TX,77575
+2.0,park place apartments,705 S Church St,Asheboro,NC,27203
+2.0,park place apartments,1325 S 77 Sunshine Strip,Harlingen,TX,78550
+2.0,park place apartments,4165 Menlo Ave,San Diego,CA,92105
+2.0,park place apartments,916 N Ella Rd,Spokane Valley,WA,99212
+3.0,park place apartments,9600 Telephone Rd,Ventura,CA,93004
+2.0,park place apartments,347 Hampshire Dr,Hamilton,OH,45011
+2.0,park place apartments,1102 North St,Santa Rosa,CA,95404
+2.0,park place apartments,201 Beaver Ct,Colorado Springs,CO,80905
+3.0,park place apartments,4626 Deleon St,Fort Myers,FL,33907
+3.0,park place apartments,1654 E Grand River Ave,East Lansing,MI,48823
+3.0,park place apartments,1325 Park Ave SW,Albuquerque,NM,87102
+2.0,park place apartments,1810 Mahoning Ave,Warren,OH,44483
+3.0,park place apartments,6125 Eden East Dr,Montgomery,AL,36117
+2.0,park place apartments,114 Park Ave,Omaha,NE,68131
+4.0,park place apartments,4030 Tates Creek Rd,Lexington,KY,40517
+2.0,park place apartments,1003 Savage Rd NE,Salem,OR,97301
+2.0,park place apartments,3609 SE 42nd Ave,Portland,OR,97206
+3.0,park place apartments,255 Park Pl,San Ramon,CA,94583
+3.0,park place apartments,15529 S Plaza Dr,Taylor,MI,48180
+4.0,park place apartments,1319 Bell Ridge Rd,Johnson City,TN,37601
+2.0,park place apartments,391 Monroe Ave,Troy,MO,63379
+2.0,park place apartments,540 E 13 Mile Rd,Madison Heights,MI,48071
+2.0,park place apartments,1155 E Bullard Ave,Fresno,CA,93710
+4.0,park place apartments,1023 W 24th St,Austin,TX,78705
+2.0,park place apartments,621 Arcadia St,Hurst,TX,76053
+3.0,park place apartments,8529 Parkvilla Dr,Mountain Iron,MN,55768
+2.0,park place apartments,730 K St,Idaho Falls,ID,83402
+2.0,park place apartments,309 N Park St,Roberts,WI,54023
+2.0,park place apartments,133 High St,Williamston,MI,48895
+2.0,park place apartments,8401 Park Place Blvd,Houston,TX,77017
+3.0,park place apartments,550 E Hanford Armona Rd,Lemoore,CA,93245
+2.0,park place apartments,7331 8th St,Buena Park,CA,90621
+4.0,park place apartments,2720 State Route 160,Highland,IL,62249
+3.0,park place apartments,107 Luxury Ln,Knightdale,NC,27545
+2.0,park place apartments,5820 Murray Dr,Hanahan,SC,29410
+2.0,park place apartments,510 Oglethorpe Ave,Athens,GA,30606
+3.0,park place apartments,12115 William Plz,Omaha,NE,68144
+2.0,park place apartments,1831 Wynnton Rd,Columbus,GA,31906
+4.0,park place apartments,877 E Park St,Eugene,OR,97401
+2.0,park place apartments,1911 Camino de la Costa,Redondo Beach,CA,90277
+2.0,park place apartments,2932 Marshall Ave SE,Grand Rapids,MI,49508
+2.0,park place apartments,920 E Michigan Ave,Hobbs,NM,88240
+3.0,park place apartments,100 Belle Fontaine Dr,Lafayette,LA,70506
+2.0,park place apartments,1750 Saint Johns Blvd,Lincoln Park,MI,48146
+2.0,park place apartments,2650 Church St,Hernando,MS,38632
+2.0,park place apartments,625 N State St,Ukiah,CA,95482
+2.0,park place apartments,1606 Kent Pl,Roseville,CA,95661
+2.0,park place apartments,518 W Park Ave,Mcalester,OK,74501
+3.0,park place apartments,20 S Mechanic St,Bellville,TX,77418
+2.0,park place apartments,3525 Burt St,Omaha,NE,68131
+2.0,park place apartments,125 Oriole St,Hot Springs,AR,71901
+3.0,park place apartments,430 Parkside Ln,Hemlock,MI,48626
+3.0,park place apartments,1441 Ashcraft Ln,Charlotte,NC,28209
+2.0,park place apartments,2275 Scenic Hwy,Pensacola,FL,32503
+2.0,park place apartments,3132 W Lambright St,Tampa,FL,33614
+2.0,park place apartments,1601 N Richmond St,Hartford City,IN,47348
+3.0,park place apartments,499 S Pear Orchard Rd,Ridgeland,MS,39157
+3.0,park place apartments,250 E 2nd Ave,Hialeah,FL,33010
+2.0,park place apartments,2051 Hilltop Dr,Ashwaubenon,WI,54313
+2.0,park place apartments,39234 Park Place Cir,Zephyrhills,FL,33542
+2.0,park place apartments,2326 Cordova St,Anchorage,AK,99503
+2.0,park place apartments,155 E Park St,Elizabethtown,PA,17022
+3.0,park place apartments,230 SE Evans St,McMinnville,OR,97128
+4.0,park place apartments,940 City Plaza Way,Oviedo,FL,32765
+2.0,park place apartments,1900 W Broadway Ave,Elk City,OK,73644
+2.0,park place apartments,123 E Burk Ave,Wildwood,NJ,08260
+3.0,park place apartments,45 Bridge St,Suffield,CT,06078
+3.0,park place apartments,5601 Eastern Ave,Davenport,IA,52807
+2.0,park place apartments,505 E 4th St,Huxley,IA,50124
+3.0,park place apartments,1526 5th St,Coralville,IA,52241
+2.0,park place apartments,2300 44th St,Dickinson,TX,77539
+2.0,park place apartments,3056 Water St,Stevens Point,WI,54481
+2.0,park place apartments,1644 Waukegan Rd,Glenview,IL,60025
+3.0,park place apartments,2548 Walnut Ave,Carmichael,CA,95608
+3.0,park place apartments,98 Rawlins Way,Clyde,OH,43410
+2.0,park place apartments,1209 7th St NE,Devils Lake,ND,58301
+3.0,park place apartments,8280 High Pointe Dr,Newburgh,IN,47630
+3.0,park place apartments,2915 Arleth St,Terre Haute,IN,47802
+2.0,park place apartments,1300 5th Ave,Delano,CA,93215
+2.0,park place apartments,1404 East Blvd,Cleveland,OH,44106
+2.0,park place apartments,821 Hillsboro Rd,Farmington,MO,63640
+3.0,park place apartments,172 Creekridge Cir,Mooresville,NC,28115
+3.0,park place apartments,1505 Park Pl,College Station,TX,77840
+2.0,park place apartments,506 S D St,Indianola,IA,50125
+4.0,park place apartments,222 E Boyd Dr,Baton Rouge,LA,70808
+2.0,park place apartments,5528 KY Route 114,Prestonsburg,KY,41653
+4.0,park place apartments,3515 Hoyt Ave,Everett,WA,98201
+2.0,park place apartments,2057 Washington St,Ferndale,WA,98248
+3.0,park place apartments,110 NE Brookdale Ln,Bremerton,WA,98311
+3.0,park place apartments,2610 Emmett Ave,Tifton,GA,31794
+3.0,park place apartments,1695 Brewer Rd,Winston-Salem,NC,27127
+2.0,park place apartments,7004 Cleveland Ave,Kansas City,MO,64132
+3.0,park place apartments,301 Dyer St,Mountain Home,AR,72653
+3.0,park place apartments,161 Park Pl,Seneca Falls,NY,13148
+3.0,parkview apartments,16936 Burbank Blvd,Encino,CA,91316
+3.0,park view apartments,10 Allegheny Ctr,Pittsburgh,PA,15212
+2.0,riverview apartments,17935 Quantico Rd,Apple Valley,CA,92307
+2.0,parkside apartments,1221 Barton Hills Dr,Austin,TX,78704
+3.0,parkside apartments,9219 Anderson Mill Rd,Austin,TX,78729
+3.0,parkside apartments,400 W 9th St,Los Angeles,CA,90015
+3.0,parkside apartments,5100 Ming Ave,Bakersfield,CA,93309
+2.0,parkview apartments,1685 Colorado Blvd,Denver,CO,80220
+3.0,park view apartments,3700 10th Ave,San Diego,CA,92103
+2.0,parkside apartments,3856 Bronx Blvd,Bronx,NY,10467
+2.0,parkview apartments,12215 W Dixie Hwy,North Miami,FL,33161
+2.0,riverview apartments,1423 Riverside Dr,Lakewood,OH,44107
+2.0,parkview apartments,1160 N Quincy St,Arlington,VA,22201
+2.0,parkside apartments,621 N Monroe St,Stockton,CA,95203
+2.0,parkside apartments,339 W Oak St,Stockton,CA,95203
+2.0,parkside apartments,1010 N Frio St,San Antonio,TX,78207
+2.0,park view apartments,822 S Park View St,Los Angeles,CA,90057
+2.0,riverview apartments,15 W Main St,Ansonia,CT,06401
+2.0,parkview apartments,824 S 11th St,Albion,NE,68620
+2.0,park view apartments,82597 Miles Ave,Indio,CA,92201
+2.0,parkside apartments,201 S 7th St,Ogden,KS,66517
+2.0,parkside apartments,56 N Buffalo St,Springville,NY,14141
+2.0,riverview apartments,5252 Courtney Ln,Joplin,MO,64804
+3.0,parkside apartments,1801 S Cutler Dr,Tempe,AZ,85281
+2.0,parkview,401 W Fourth St,Jamestown,NY,14701
+2.0,parkview apartments,6 N Main St,Orono,ME,04473
+2.0,park view apartments,504 Bethel Rd,Morganton,NC,28655
+2.0,parkview apartments,1108 Anna St,Elizabeth,NJ,07201
+2.0,parkview apartments,19 Maple St,Springfield,MA,01103
+3.0,parkside apartments,729 Parkside Reserve St,Wellington,OH,44090
+3.0,riverview apartments,315 High St,Oregon City,OR,97045
+2.0,parkside apartments,555 Precinct Line Rd,Hurst,TX,76053
+2.0,parkview apartments,7252 Munson Way,Sacramento,CA,95823
+2.0,park view apartments,1021 S Park View St,Los Angeles,CA,90006
+2.0,parkside apartments,277 N 1st St,El Cajon,CA,92021
+2.0,parkview,202 W Benjamin Holt Dr,Stockton,CA,95207
+2.0,parkview apartments,3330 Country Dr,Fremont,CA,94536
+3.0,parkside apartments,9333 NE 120th St,Kirkland,WA,98034
+2.0,park view apartments,1235 W Baseline Rd,Tempe,AZ,85283
+2.0,park view apartments,220 Hamilton St NW,Washington,DC,20011
+3.0,park view apartments,511 Park View,Los Angeles,CA,90057
+2.0,parkside apartments,1203 NE 135th St,Seattle,WA,98125
+2.0,parkview apartments,6530 W 94th Pl,Oak Lawn,IL,60453
+3.0,parkside apartments,1501 Decoto Rd,Union City,CA,94587
+2.0,parkview apartments,503 Parkview Ln,Lockport,IL,60441
+3.0,parkview apartments,825 15th St,Modesto,CA,95354
+2.0,park view apartments,4900 Fulton St,San Francisco,CA,94121
+2.0,parkside apartments,3652 SE Stark St,Portland,OR,97214
+2.0,park view apartments,350 Oxford St,Chula Vista,CA,91911
+2.0,park view apartments,211 E Locust St,Lodi,CA,95240
+2.0,riverview apartments,12425 SE River Rd,Milwaukie,OR,97222
+2.0,parkside apartments,2715 Main St,Forest Grove,OR,97116
+2.0,parkview apartments,10425 Plainview Ave,Tujunga,CA,91042
+3.0,parkside apartments,1815 13th Ave S,Seattle,WA,98144
+2.0,park view apartments,723 Eucalyptus Ave,Vista,CA,92084
+3.0,parkview apartments,9890 W 26th Ave,Lakewood,CO,80215
+2.0,parkview apartments,529 Taylor Ct,Mountain View,CA,94043
+2.0,parkview,401 Pine St,Edmonds,WA,98020
+3.0,parkview apartments,1751 Ellis St,Concord,CA,94520
+2.0,parkside apartments,900 W Casino Rd,Everett,WA,98204
+2.0,parkview apartments,2045 W Linden St,Riverside,CA,92507
+2.0,parkside apartments,301 Grant St,Framingham,MA,01702
+2.0,park view apartments,622 Londonderry Ln,Denton,TX,76205
+2.0,parkside apartments,920 Pedras Rd,Turlock,CA,95382
+2.0,parkside apartments,6514 46th St,Sacramento,CA,95823
+2.0,parkview apartments,17545 Madison Ave,Lakewood,OH,44107
+3.0,park view apartments,3101 E Artesia Blvd,Long Beach,CA,90805
+2.0,park view apartments,1430 S Chelton Rd,Colorado Springs,CO,80910
+2.0,parkview apartments,1330 Moreland Dr,Clearwater,FL,33764
+2.0,parkview apartments,895 Clinton Springs Ave,Cincinnati,OH,45229
+2.0,parkview apartments,750 Carroll Pky,Frederick,MD,21701
+2.0,parkview apartments,1347 Holly Dr,Tracy,CA,95376
+2.0,parkside apartments,1209 Tulip St,Longmont,CO,80501
+3.0,parkview,618 New Brunswick Ave,Perth Amboy,NJ,08861
+3.0,parkview,360 Six Flags Dr,Austell,GA,30168
+2.0,parkview apartments,3344 Redondo Beach Blvd,Torrance,CA,90504
+3.0,riverview apartments,2650 NW 64th Ave,Sunrise,FL,33313
+2.0,parkside apartments,4616 Leiper St,Philadelphia,PA,19124
+2.0,parkside apartments,315 S 50th St,Philadelphia,PA,19143
+2.0,riverview apartments,602 W 135th St,New York,NY,10031
+3.0,parkview apartments,1865 N Fuller Ave,Los Angeles,CA,90046
+3.0,riverview apartments,1730 Main St,Franklinton,LA,70438
+3.0,parkview apartments,10905 Bourbon Ct,Tampa,FL,33612
+3.0,parkside apartments,516 N 4th St,Coleman,MI,48618
+3.0,parkview apartments,360 Meridian Ave,San Jose,CA,95126
+2.0,riverview apartments,8612 Halls Ferry Rd,Saint Louis,MO,63147
+3.0,parkview apartments,8401 E Reno Ave,Midwest City,OK,73110
+2.0,parkview apartments,270 W Alamar Ave,Santa Barbara,CA,93105
+3.0,parkview apartments,2590 California Park Dr,Chico,CA,95928
+3.0,park view apartments,660 NE 149th St,Miami,FL,33161
+2.0,parkside apartments,465 N Center St,Gonzales,CA,93926
+2.0,park view apartments,707 Elton Pl,Salinas,CA,93905
+2.0,park view apartments,715 Elton Pl,Salinas,CA,93905
+2.0,parkview apartments,6 Parkview Dr,Painesville,OH,44077
+2.0,parkview apartments,2363 Southern Blvd,Bronx,NY,10460
+2.0,parkview apartments,1250 Central Ave,Wenatchee,WA,98801
+3.0,park view apartments,2743 Lanning Ave,Redding,CA,96001
+2.0,parkview apartments,4150 Lions Pl,Macon,GA,31206
+3.0,parkside apartments,750 99th Ave NW,Coon Rapids,MN,55433
+2.0,parkside apartments,325 W 5th St,Mesa,AZ,85201
+2.0,riverview apartments,1070 Bethel New Richmond Rd,New Richmond,OH,45157
+2.0,parkview apartments,1831 E 18th St,National City,CA,91950
+2.0,park view apartments,1609 E 18th St,National City,CA,91950
+2.0,riverview apartments,8150 W River Rd,Minneapolis,MN,55444
+2.0,parkview apartments,15130 65th Ave,Seattle,WA,98188
+2.0,parkside apartments,1224 E Saginaw St,East Lansing,MI,48823
+3.0,parkside apartments,7775 Park Dr,Omaha,NE,68127
+2.0,parkside apartments,3941 NE 3rd Ave,Oakland Park,FL,33334
+2.0,park view apartments,6964 Fulton St,San Diego,CA,92111
+2.0,parkview apartments,1229 Sacramento St,Vallejo,CA,94590
+2.0,parkview,100 Parkview Ln,Savoy,IL,61874
+2.0,riverview apartments,229 S 2nd St,Springfield,OR,97477
+3.0,riverview apartments,171 Laurel St,Bristol,CT,06010
+2.0,parkview apartments,625 W 9th Ave,Anchorage,AK,99501
+3.0,parkview apartments,1200 W Taylor St,Sherman,TX,75092
+2.0,riverview apartments,700 Buckeye St,Warren,OH,44485
+3.0,parkview apartments,800 N Major Ave,Henderson,NV,89015
+3.0,parkview apartments,5400 Diamond Loch,Columbus,OH,43228
+2.0,park view apartments,45 Balph Ave,Pittsburgh,PA,15202
+2.0,riverview apartments,230 Canal St,Milford,MI,48381
+2.0,riverview apartments,223 2nd St,Massillon,OH,44646
+2.0,riverview apartments,1236 Dixie Hwy,Rossford,OH,43460
+2.0,park view apartments,181 Pierce St,Gilroy,CA,95020
+2.0,riverview apartments,650 N 8th St,Sunbury,PA,17801
+3.0,riverview apartments,750 N 8th St,Sunbury,PA,17801
+2.0,parkside apartments,810 W Huron St,Ann Arbor,MI,48103
+3.0,parkside apartments,345 W Park St,Stockton,CA,95203
+2.0,riverview apartments,600 NW S River Dr,Miami,FL,33136
+2.0,parkview apartments,2202 Dale St N,Roseville,MN,55113
+2.0,parkview apartments,2210 Dale St N,Roseville,MN,55113
+3.0,parkview,1955 W Old Shakopee Rd,Bloomington,MN,55431
+2.0,parkside apartments,5409 El Camino Ave,Carmichael,CA,95608
+2.0,park view apartments,3320 Byron Center Ave,Grand Rapids,MI,49519
+2.0,park view apartments,32450 Grand River Ave,Farmington,MI,48336
+2.0,parkview apartments,1418 I St,Modesto,CA,95354
+2.0,riverview apartments,5 Green St,Dover,NH,03820
+2.0,riverview apartments,3160 Riverview Cir,Columbus,OH,43202
+3.0,parkview apartments,7806 NE 12th St,Vancouver,WA,98664
+2.0,parkside apartments,2334 11th Ave E,North Saint Paul,MN,55109
+3.0,parkview,1304 Wallace Rd,Salem,OR,97304
+2.0,parkview apartments,1224 Hazelwood St,Saint Paul,MN,55106
+3.0,parkview apartments,930 NW 4th St,Ontario,OR,97914
+2.0,parkside apartments,1208 11th St,Huntington,WV,25701
+2.0,parkview,726 13th Ave,Huntington,WV,25701
+2.0,parkview apartments,2023 Cho Pky,Louisville,KY,40204
+2.0,parkview apartments,4200 3rd St NE,Columbia Heights,MN,55421
+3.0,parkview apartments,346 Longley Dr,Lebanon,IN,46052
+3.0,parkview,3393 N Country Brook St,Columbus,IN,47201
+3.0,parkside apartments,1020 Burnside St,Hopewell,VA,23860
+2.0,parkside apartments,1066 NE Piedmont Ave,Atlanta,GA,30309
+2.0,parkview apartments,405 N Hwy 95,Elgin,TX,78621
+2.0,parkview apartments,127 E Hamilton Ave,State College,PA,16801
+3.0,parkview apartments,210 N Easterling St,Dalton,GA,30721
+2.0,parkview apartments,1786 St Paul St,Rochester,NY,14621
+2.0,parkside apartments,633 SE Flint St,Roseburg,OR,97470
+3.0,parkview apartments,1201 12th Ave N,Minneapolis,MN,55411
+2.0,parkview apartments,415 Sunset Ct,Caldwell,ID,83605
+2.0,park view apartments,261 Pine St,Manchester,NH,03103
+2.0,riverview apartments,925 Angel St NW,Elk River,MN,55330
+2.0,parkview apartments,161 E 9th St,Holland,MI,49423
+2.0,parkview apartments,625 12th St N,La Crosse,WI,54601
+2.0,parkside apartments,241 N Maple St,Fowler,MI,48835
+3.0,park view apartments,1936 N Clark St,Chicago,IL,60614
+2.0,parkview apartments,627 Frederick St,New Harmony,IN,47631
+2.0,parkview apartments,9905 W Fond Du Lac Ave,Milwaukee,WI,53224
+2.0,parkview apartments,5801 S 12th Ave,Tucson,AZ,85706
+2.0,parkside apartments,951 Edgecliffe Dr,Los Angeles,CA,90026
+2.0,riverview apartments,320 E River St,Grand Ledge,MI,48837
+2.0,parkview apartments,360 Erna Ave,La Habra,CA,90631
+2.0,riverview apartments,256 W 3rd N,Burley,ID,83318
+2.0,parkview apartments,809 Silver Meadows Blvd,Kent,OH,44240
+2.0,riverview apartments,550 S 12th St,Elko,NV,89801
+2.0,park view apartments,2701 Ulric St,San Diego,CA,92111
+2.0,park view apartments,757 Ridgeway Ave,Cincinnati,OH,45229
+2.0,riverview apartments,1230 E Auer Ave,Milwaukee,WI,53212
+2.0,park view apartments,283 Park St,York,PA,17401
+2.0,park view apartments,658 22nd Ave,Saint Petersburg,FL,33705
+2.0,riverview apartments,250 River St,Kent,OH,44240
+2.0,parkside apartments,4545 Cooper Ave,Lincoln,NE,68506
+2.0,parkside apartments,2515 Wallace Ave,Louisville,KY,40205
+2.0,park view apartments,247 E Vine St,Salt Lake City,UT,84107
+2.0,park view apartments,5505 N Habana Ave,Tampa,FL,33614
+2.0,park view apartments,16366 Pebble Beach Dr,Victorville,CA,92395
+3.0,parkside apartments,825 S River Dr,Tempe,AZ,85281
+2.0,riverview apartments,157 Franklin St,Santa Cruz,CA,95060
+2.0,parkview apartments,472 Lincoln Cir,Millbrae,CA,94030
+3.0,parkside apartments,8455 Will Clayton Pky,Humble,TX,77338
+3.0,parkside apartments,6285 Jacinto Ave,Sacramento,CA,95823
+3.0,parkside apartments,1420 F St,Davis,CA,95616
+2.0,parkview apartments,535 6th St,Avon,MN,56310
+4.0,parkside apartments,1060 Cross Keys Rd,Lexington,KY,40504
+2.0,parkside apartments,1776 Kearns Blvd,Park City,UT,84060
+2.0,parkview apartments,1532 Northway Dr,Saint Cloud,MN,56303
+2.0,parkview apartments,1534 Northway Dr,Saint Cloud,MN,56303
+2.0,parkview apartments,1110 Sunset Dr,Benson,NC,27504
+2.0,parkside apartments,310 6th Ave NW,New Prague,MN,56071
+2.0,riverview apartments,920 Grand Ave,Wausau,WI,54403
+2.0,park view apartments,221 Mathews St,Fort Collins,CO,80524
+2.0,riverview apartments,174 Providence Rd,Grafton,MA,01519
+2.0,parkview apartments,11805 Dry Creek Rd,Auburn,CA,95602
+2.0,parkside apartments,202 5th St NE,Buffalo,MN,55313
+2.0,parkview apartments,8816 Laurel Canyon Blvd,Sun Valley,CA,91352
+2.0,parkview apartments,425 Washington St,Santa Cruz,CA,95060
+2.0,parkview apartments,135 Lafayette St,Jersey City,NJ,07304
+3.0,riverview apartments,75 Pheasant Rd,Peterborough,NH,03458
+3.0,parkside apartments,5942 S Kurtz Rd,Hales Corners,WI,53130
+2.0,parkside apartments,1510 S Mebane St,Burlington,NC,27215
+4.0,parkview,17700 NW 59th Ave,Hialeah,FL,33015
+2.0,parkview apartments,4567 Hamilton Ave,San Jose,CA,95130
+4.0,parkside apartments,1615 E Military Ave,Fremont,NE,68025
+2.0,parkside apartments,2401 E Simcoe St,Lafayette,LA,70501
+2.0,park view apartments,108 Kensington Ave S,Kent,WA,98030
+2.0,park view apartments,1050 Porter St,Clearwater,MN,55320
+2.0,riverview apartments,1300 E Kane Pl,Milwaukee,WI,53202
+2.0,parkside apartments,750 S Highland Ave,Fullerton,CA,92832
+2.0,parkside apartments,16910 NE 80th St,Redmond,WA,98052
+2.0,riverview apartments,90 Sperry Ave,North Adams,MA,01247
+2.0,parkside apartments,1829 South St,Blair,NE,68008
+2.0,parkview apartments,515 W Main St,Bensenville,IL,60106
+2.0,park view apartments,80 Parkview Pl NW,Shallotte,NC,28470
+2.0,parkview apartments,104  Lewis St,Buffalo,NY,14206
+2.0,riverview apartments,1075 Riverside Dr,Reno,NV,89503
+3.0,parkview apartments,1712 4th Ave,Plattsmouth,NE,68048
+2.0,park view apartments,3051 W McKinley Ave,Fresno,CA,93722
+2.0,park view apartments,720 E Willis,Prescott,AZ,86301
+3.0,parkview apartments,3600 17th Ave,Evans,CO,80620
+3.0,parkview,100 Williamston Ct,Williamston,SC,29697
+3.0,parkview apartments,13155 Park St,Alden,NY,14004
+2.0,parkview apartments,500 S Kiwanis St,Sioux Falls,SD,57104
+3.0,riverview apartments,215 Joy St,Blissfield,MI,49228
+2.0,parkside apartments,23740 Fenkell St,Detroit,MI,48223
+3.0,parkside apartments,2300 W 76th Ave,Denver,CO,80221
+2.0,parkview apartments,2300 Apache,Greensboro,NC,27401
+3.0,parkview apartments,3356 Byron Center Ave SW,Wyoming,MI,49519
+3.0,parkview apartments,2201 Delaware St,Huntington Beach,CA,92648
+2.0,park view apartments,10 Moore St,Mauldin,SC,29662
+4.0,riverview apartments,8149 St. Bernard Hwy,Chalmette,LA,70043
+2.0,parkview apartments,116 Devon Ave,Parchment,MI,49004
+2.0,riverview apartments,1320 E North St,Waukesha,WI,53188
+2.0,riverview apartments,213 W Chemung Pl,Elmira,NY,14904
+2.0,parkside apartments,2513 Dogwood Ave,Gillette,WY,82718
+3.0,parkside apartments,7780 23rd Ave,Denver,CO,80238
+4.0,parkview,4523 Briggs Dr SE,Olympia,WA,98501
+3.0,parkview apartments,3010 22nd Ave,Forest Grove,OR,97116
+2.0,parkside apartments,901 E Maguire Rd,Noble,OK,73068
+2.0,parkview apartments,502 South St,Bristol,CT,06010
+3.0,parkview apartments,1640 NE Irving St,Portland,OR,97232
+4.0,parkview,871 Elton Ave,Bronx,NY,10451
+2.0,riverview apartments,400 E Thielke Ave,Appleton,MN,56208
+2.0,riverview apartments,605 10th St,Windom,MN,56101
+3.0,parkview apartments,326 E Division St,Boyne City,MI,49712
+3.0,parkview apartments,1549 Shepherd Dr,De Soto,MO,63020
+3.0,parkview apartments,613 N Front St,Niles,MI,49120
+2.0,parkside apartments,2520 Parkview Dr,Granite City,IL,62040
+2.0,riverview apartments,5212 Cortland Ave,Ashtabula,OH,44004
+3.0,parkview apartments,520 SW 5th St,Miami,FL,33130
+3.0,parkview apartments,270 Spring St,Naugatuck,CT,06770
+2.0,riverview apartments,522 C St,Eden,NC,27288
+2.0,parkside apartments,130 N Parkside Ave,Chicago,IL,60644
+2.0,riverview apartments,149 Olive St,Paso Robles,CA,93446
+3.0,parkside apartments,442 N Kellogg St,Lake Elsinore,CA,92530
+3.0,parkview,2249 Northwest Loop,Stephenville,TX,76401
+2.0,parkside apartments,13883 Middle Gibraltar Rd,Gibraltar,MI,48173
+2.0,parkside apartments,210 Westinghouse Ave,Wilmerding,PA,15148
+2.0,parkside apartments,51 Park St,Meriden,CT,06450
+2.0,parkview apartments,5166 N Lovers Lane Rd,Milwaukee,WI,53225
+2.0,riverview apartments,500 Madison Ave,Elmira,NY,14901
+2.0,parkview,350 Commerce Centre Dr,Huntersville,NC,28078
+2.0,parkside apartments,1109 N Crawford St,Dallas,TX,75203
+3.0,park view apartments,2546 14th St,Astoria,NY,11102
+3.0,park view apartments,204 W Moore Ave,Devine,TX,78016
+2.0,parkside apartments,211 E Mizpah Cir,Tonopah,NV,89049
+2.0,parkside apartments,106 Magnolia St,Mansfield,TX,76063
+3.0,parkside apartments,5670 W Lake St,Chicago,IL,60644
+3.0,parkview,22001 Parkview Dr,Taylor,MI,48180
+2.0,parkside apartments,5615 Phinney Ave N,Seattle,WA,98103
+2.0,parkside apartments,25 N Main St,Glen Ellyn,IL,60137
+3.0,parkview apartments,14827 Porterfield Dr,Orange,VA,22960
+3.0,riverview apartments,10 Riverview Ct,Laurel,MD,20707
+2.0,parkside apartments,3280 Blue Ridge Cir,Stockton,CA,95219
+3.0,parkside apartments,3240 9th St W,West Fargo,ND,58078
+2.0,parkview apartments,160 S Lincoln Ave,Addison,IL,60101
+2.0,riverview apartments,607 S Carroll St,Arnold,NE,69120
+2.0,riverview apartments,108 Baldwin St,Granite Falls,MN,56241
+2.0,parkside apartments,36200 Giffen Dr,Huron,CA,93234
+2.0,parkview,18317 Kittridge St,Reseda,CA,91335
+3.0,parkview apartments,16551 Victory Blvd,Lake Balboa,CA,91406
+4.0,parkview apartments,90 Big Ridge Rd,Spencerport,NY,14559
+2.0,riverview apartments,805 E Ryan Dr,Tea,SD,57064
+3.0,park view apartments,2806 6th Ave,San Diego,CA,92103
+2.0,parkview apartments,3905 Parkview Ave,Gwynn Oak,MD,21207
+3.0,parkside apartments,4035 Park Haven Ct,San Diego,CA,92113
+2.0,parkside apartments,2250 Eastman Ave,Green Bay,WI,54302
+3.0,park view apartments,165 Exchange St,Attica,NY,14011
+3.0,parkview apartments,1451 Colquitt Rd,Terrell,TX,75160
+2.0,riverview apartments,2201 Gibson St,Sioux City,IA,51106
+3.0,parkview apartments,1700 N Walnut St,Bloomington,IN,47404
+3.0,riverview apartments,2238 Loomis St,Corning,IA,50841
+2.0,parkside apartments,205 W Jefferson St,Oconomowoc,WI,53066
+2.0,riverview apartments,1039 3rd St,Kenner,LA,70062
+2.0,riverview apartments,3333 East Ave S,La Crosse,WI,54601
+3.0,parkview apartments,424 2nd St N,Brownton,MN,55312
+2.0,parkside apartments,2621 W Pierce St,Milwaukee,WI,53204
+2.0,riverview apartments,1055 Boulevard E,Weehawken,NJ,07086
+2.0,parkside apartments,115 13th Ave S,Hopkins,MN,55343
+2.0,parkview apartments,290 Sumner Ave,Springfield,MA,01108
+2.0,parkside apartments,144 S Walnut St,Kennett Square,PA,19348
+2.0,parkview apartments,624 5th Ave NW,Great Falls,MT,59404
+2.0,parkview apartments,313 Erie St,Cheney,WA,99004
+3.0,riverview apartments,1605 E 9th Ave,Fort Morgan,CO,80701
+3.0,park view apartments,1426 Knoxville Hwy,Wartburg,TN,37887
+3.0,parkview apartments,46 Barnes Ave,Worcester,MA,01605
+3.0,riverview apartments,39169 US Highway 6 & 24,Avon,CO,81620
+3.0,parkview apartments,330 Columbine St,Soldotna,AK,99669
+2.0,riverview apartments,205 Nunnemacher St,Wakefield,MI,49968
+3.0,parkview apartments,4451 Forest Park Ave,Saint Louis,MO,63108
+2.0,parkview apartments,301 W Warlow Dr,Gillette,WY,82716
+2.0,parkview,101 Homestead Ct,Edwardsville,IL,62025
+2.0,parkview apartments,5 Jordan Dr,Whitehall,PA,18052
+3.0,riverview apartments,912 Strawberry Ln,Clayton,NY,13624
+2.0,riverview apartments,1629 Riverside Dr,Tulsa,OK,74119
+3.0,parkview apartments,500 E St NE,Quincy,WA,98848
+2.0,parkview apartments,1380 Veteran Ave,Los Angeles,CA,90025
+3.0,park view apartments,10920 Covington by Pass Rd,Covington,GA,30014
+3.0,parkview apartments,6785 Knott Ave,Buena Park,CA,90620
+4.0,parkview apartments,212 N Dunton Ave,Arlington Heights,IL,60004
+3.0,parkview apartments,516 Main Ave N,Bagley,MN,56621
+3.0,riverview apartments,5360 Riverview Rd,Minneapolis,MN,55417
+2.0,park view apartments,2501 Caldwell Ave S,Birmingham,AL,35205
+2.0,parkview apartments,323 2nd Ave,Atkins,IA,52206
+3.0,parkview,363 Autumn Dr,San Marcos,CA,92069
+3.0,parkview,94-217 Lumiaina St,Waipahu,HI,96797
+3.0,parkview apartments,1334 Memorial Ln,Huntington,IN,46750
+3.0,riverview apartments,601 W 3rd St,Caruthersville,MO,63830
+2.0,parkview apartments,1518 W London St,El Reno,OK,73036
+3.0,parkside apartments,1 Parkside Ct,Glen Gardner,NJ,08826
+3.0,parkview apartments,817 Parkview Dr,Salem,IN,47167
+3.0,parkside apartments,448 N Joekel Ave,Giddings,TX,78942
+3.0,parkview apartments,401 SE Q St,Leon,IA,50144
+3.0,parkview apartments,700 Parkview Blvd,Covington,LA,70433
+3.0,parkside apartments,125 N Chestnut St,Kewanee,IL,61443
+3.0,parkside apartments,1870 Lusitana St,Honolulu,HI,96813
+3.0,parkview apartments,106 Gillette St,Pardeeville,WI,53954
+3.0,parkview apartments,101 Northfield Dr,Normal,IL,61761
+2.0,parkview apartments,300 W 13th Ave,Pine Bluff,AR,71601
+2.0,riverview apartments,757 Riverview Ter,Rochester,PA,15074
+2.0,parkview apartments,118 S 9th St,New Baden,IL,62265
+3.0,parkside apartments,1205-C E Florida Ave,Urbana,IL,61801
+2.0,riverview apartments,16 Penobscot St,Augusta,ME,04330
+2.0,riverview apartments,101 Western Ave,Fond du Lac,WI,54935
+2.0,parkview apartments,77 Garnet Rd,Amherst,NY,14226
+2.0,parkside apartments,390 S Home Ave,Franklin,IN,46131
+2.0,parkview apartments,746 W Main St,Madison,WI,53715
+3.0,riverview apartments,2119 Erie Ave,Sheboygan,WI,53081
+3.0,parkside apartments,70 Garfield St,Ashland,OR,97520
+2.0,riverview apartments,1 W Mosher St,Mount Pleasant,MI,48858
+2.0,riverview apartments,3207 E 2nd Ave,Durango,CO,81301
+3.0,parkview apartments,2500 Duke St,Beaufort,SC,29902
+2.0,parkview apartments,1413 E 7th Ave,Spokane,WA,99202
+2.0,parkside apartments,215 S G St,Tacoma,WA,98405
+3.0,parkview apartments,3001 Parkridge Dr,Homewood,AL,35209
+2.0,parkview apartments,44 Victory Ave,Upper Darby,PA,19082
+3.0,parkview apartments,1100 Rock Ave,Waupun,WI,53963
+2.0,parkside apartments,920 18th St S,Moorhead,MN,56560
+2.0,parkview apartments,87 Main St,Fair Haven,VT,05743
+3.0,parkview,1026 Osage St,Manhattan,KS,66502
+2.0,parkview apartments,925 Parkview Dr,Boonville,IN,47601
+3.0,riverview apartments,315 N Arch St,Connellsville,PA,15425
+2.0,parkview apartments,11507 Douglas Ave,Huntley,IL,60142
+2.0,parkview apartments,491 E College St,Lineville,AL,36266
+3.0,riverview apartments,601 River Rd,San Marcos,TX,78666
+3.0,parkview apartments,300 E St NE,Quincy,WA,98848
+2.0,riverview apartments,401 W 2nd Ave,Twisp,WA,98856
+3.0,park place apartments,1119 Bratton Rd,New Albany,MS,38652
+3.0,parkview,922 9th Ave,Longview,WA,98632
+3.0,parkview apartments,80 Emory Hill Dr,Jackson,TN,38301
+2.0,park place apartments,2604 Flint Way,San Bernardino,CA,92408
+3.0,parkview apartments,769 Best St,Buffalo,NY,14211
+2.0,park place apartments,415A N State St,Shelby,MI,49455
+2.0,riverview apartments,17 Hubbard Ave S,Sebeka,MN,56477
+2.0,parkview apartments,2700 Harrison Ave NW,Canton,OH,44709
+2.0,parkview apartments,311 N Garfield Ave,Oberlin,KS,67749
+2.0,parkside apartments,970 NW 9th Ave,Pompano Beach,FL,33060
+3.0,parkview apartments,222 S Church St,Palestine,TX,75801
+3.0,parkside apartments,211 N Shasta Ave,Eagle Point,OR,97524
+2.0,parkview apartments,1022 NW 7th St,Madison,SD,57042
+3.0,riverview apartments,605 Valley Dr,Emporia,KS,66801
+2.0,park view apartments,2727 Lanning Ave,Redding,CA,96001
+3.0,parkview apartments,200 Gin Aly,Alexandria,TN,37012
+2.0,park view apartments,501 W Cedar St,Willows,CA,95988
+3.0,riverview apartments,497 Newell St,Watertown,NY,13601
+3.0,parkview apartments,611 Norris Ave,McCook,NE,69001
+2.0,park place apartments,1002 Park Ave,Monroe,LA,71201
+4.0,park view apartments,40 W Southampton Dr,Columbia,MO,65203
+3.0,parkside apartments,306 Oconnor St,Greensboro,NC,27406
+3.0,parkside apartments,3730 McClintock Ave,Los Angeles,CA,90089
+3.0,parkside apartments,525 E Cypress St,Kennett Square,PA,19348
+3.0,parkview apartments,2010 Princess Ct,Lockport,IL,60441
+3.0,parkside apartments,1400 E 35th St,Texarkana,AR,71854
