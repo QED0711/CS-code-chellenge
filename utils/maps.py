@@ -49,6 +49,6 @@ def map_feature(
         
         if save:
             # fig.show(renderer='iframe')
-            plotly.io.write_html(fig, f"../visuals/{company.replace(' ', '_')}-{feature}-map.html")
+            plotly.io.write_html(fig, f"../visuals/{company.replace(' ', '_')}-{feature}-map.html", include_plotlyjs='cdn')
         else:
             fig.show()

@@ -17,7 +17,7 @@ def make_barplots(df, features, save=False):
         fig.update_layout(title_text=feat.replace('_', ' ').title())
 
         if save:
-            plotly.io.write_html(fig, f"../visuals/{feat}-bar.html")
+            plotly.io.write_html(fig, f"../visuals/{feat}-bar.html", include_plotlyjs='cdn')
         else:
             fig.show()
         
@@ -36,7 +36,7 @@ def total_locations(state_count_df, save=False):
     fig.update_layout(title_text="Total Properties")
 
     if save:
-        plotly.io.write_html(fig, f"../visuals/total_in_state-bar.html")
+        plotly.io.write_html(fig, f"../visuals/total_in_state-bar.html", include_plotlyjs='cdn')
     else:
         fig.show()
     
