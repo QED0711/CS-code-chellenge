@@ -43,7 +43,7 @@ def map_feature(
         ))
 
         fig.update_layout(
-            title_text=f"{company.title()}: {feature_ranges[feature]['title']}",
+            # title_text=f"{company.title()}: {feature_ranges[feature]['title']}",
             geo_scope='usa'
         )
         
