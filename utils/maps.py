@@ -3,7 +3,15 @@ import plotly
 import plotly.graph_objects as go
 
 
-def map_feature(df, state_count_df, feature_ranges, feature, save=False):
+def map_feature(
+    df, 
+    state_count_df, 
+    feature_ranges, 
+    feature, 
+    colorscale="YlGn", 
+    reversescale=False, 
+    save=False
+    ):
     """
     Given a set of dfs, features ranges, and a specified feature, plots a heatmap of the US for the given feature.
     """
@@ -15,12 +23,18 @@ def map_feature(df, state_count_df, feature_ranges, feature, save=False):
         current_state_count = state_count_df[state_count_df.building_name == company][['state', 'total_in_state']]
         current_df = current_df.merge(current_state_count, on=['state'])
 
+        current_df['text'] = f"({feature_ranges[feature]['title']})"
+
         fig = go.Figure(data=go.Choropleth(
             locations=current_df['state'],
             z=current_df[feature],
             zmin=feature_ranges[feature]['crange'][0],
             zmax=feature_ranges[feature]['crange'][1],
-            locationmode='USA-states',         
+            locationmode='USA-states',  
+            text=current_df.text,
+            colorscale=colorscale,
+            marker_line_color='white',
+            reversescale=reversescale,  
             colorbar=dict(
                 tickmode='array',
                 tickvals=list(range(*feature_ranges[feature]['crange'])),
