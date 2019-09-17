@@ -1,5 +1,5 @@
 import pandas as pandas
-
+import plotly
 import plotly.graph_objects as go
 
 
@@ -34,6 +34,7 @@ def map_feature(df, state_count_df, feature_ranges, feature, save=False):
         )
         
         if save:
-            fig.show(renderer='iframe')
+            # fig.show(renderer='iframe')
+            plotly.io.write_html(fig, f"../visuals/{company.replace(' ', '_')}-{feature}-map.html")
         else:
             fig.show()
