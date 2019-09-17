@@ -4,6 +4,9 @@ import plotly.graph_objects as go
 
 
 def map_feature(df, state_count_df, feature_ranges, feature, save=False):
+    """
+    Given a set of dfs, features ranges, and a specified feature, plots a heatmap of the US for the given feature.
+    """
     for company in df.building_name.unique():
 
         current_df = df[df.building_name == company]
