@@ -39,6 +39,10 @@ def map_feature(
                 tickmode='array',
                 tickvals=list(range(*feature_ranges[feature]['crange'])),
                 ticks='outside',
+                thickness=5,
+                len=0.75,
+                x=0,
+                xpad=0,
             ),
         ))
 
