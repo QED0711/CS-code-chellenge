@@ -32,6 +32,8 @@ def total_locations(state_count_df, save=False):
             marker_color=['#FC3D38', '#074C70', '#1892D1', '#F2625E', '#F4D00A', '#DFA025']
         )
     )
+    
+    fig.update_layout(title_text="Total Properties")
 
     if save:
         plotly.io.write_html(fig, f"../visuals/total_in_state-bar.html")
